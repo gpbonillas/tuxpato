@@ -1,4 +1,4 @@
 Tuxpato Programando
 =======
 
-Repositorio personal con pequeños ejercicios de programación
+Repositorio personal con pequeños ejercicios de programación en diferentes lenguajes
